@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="Trang-1" id="g7PzP2CzYFrLozogyeun">
+    <mxGraphModel dx="3840" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cviVFxG2I2GKVeHUvMST-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="40" width="1400" height="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&amp;nbsp;INPUT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;-Đưa thông tin sản phẩm lên sàn bán&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;-Ghim mẫu mã, bảng Size, màu,....&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;-Đưa hình ảnh khách hàng cần tìm lên shop&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="110" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-21" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;PROCESSING&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;-&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Nhận đơn hàng của khách, trung tâm xử lý sẽ gửi về kho hàng để lên đơn&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;-Tiến hành quá trình xuất đơn&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;-Trung tâm xử lý mã đơn cho khách hàng&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="240" y="110" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-23" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;OUTPUT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;p data-end=&quot;1598&quot; data-start=&quot;1258&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;– Hiển thị xác nhận đơn hàng cho khách hàng (số đơn, tổng tiền, thời gian giao)&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;1598&quot; data-start=&quot;1258&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;.&lt;br data-end=&quot;1454&quot; data-start=&quot;1451&quot;&gt;&lt;br&gt;– Gửi email/SMS xác nhận và hóa đơn.&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;1598&quot; data-start=&quot;1258&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br data-end=&quot;1493&quot; data-start=&quot;1490&quot;&gt;– Cập nhật trạng thái đơn hàng trên giao diện người dùng.&lt;/font&gt;&lt;/p&gt;&lt;p data-end=&quot;1598&quot; data-start=&quot;1258&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;– Gửi dữ liệu cho kho và bộ phận giao hàng. |&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="800" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-24" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Storage&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Lưu trữ thông tin khách hàng&amp;nbsp; như họ tên, địa chỉ, số điện thoại,...&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Lưu trữ mã vận đơn của khách hàng lên hệ thống dễ dàng cho việc tìm kiếm&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="240" y="798" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=70;endSize=10.32;exitX=0.714;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29.999999999999858" y="380" as="sourcePoint" />
+            <mxPoint x="200.59" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="440" y="585" width="70" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="cviVFxG2I2GKVeHUvMST-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="20" y="985" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
