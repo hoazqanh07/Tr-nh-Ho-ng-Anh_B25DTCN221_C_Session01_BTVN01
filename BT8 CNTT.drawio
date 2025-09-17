@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="Trang-1" id="26W9k6Z9x3aBxDdLxfTR">
+    <mxGraphModel dx="1227" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TNlGkWgMrrRL-m7lQpUT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-1" value="INPUT&lt;div&gt;(Exel + bàn phím)&lt;br&gt;&lt;div&gt;&lt;div&gt;Họ tên hs&lt;/div&gt;&lt;div&gt;Mã sv&lt;/div&gt;&lt;div&gt;Lớp&lt;/div&gt;&lt;div&gt;Điểm giữa kì + cuối kì&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="40" width="196" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TNlGkWgMrrRL-m7lQpUT-3" target="TNlGkWgMrrRL-m7lQpUT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TNlGkWgMrrRL-m7lQpUT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TNlGkWgMrrRL-m7lQpUT-3" target="TNlGkWgMrrRL-m7lQpUT-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-3" value="Nhập điểm sinh viên&amp;nbsp;&lt;div&gt;(bàn phím, chuột)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Exel&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="600" as="targetPoint" />
+            <mxPoint x="130" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="600" />
+              <mxPoint x="230" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-5" value="Kiểm tra có hợp lệ không&amp;nbsp;&lt;div&gt;(bàn phím, chuột)&lt;/div&gt;&lt;div&gt;Exel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TNlGkWgMrrRL-m7lQpUT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-7" value="Tính điểm trung&lt;div&gt;(bàn phím, chuột)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Exel&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="600" as="targetPoint" />
+            <mxPoint x="719" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="719" y="600" />
+              <mxPoint x="610" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-9" value="Lưu vào hệ thống và xét loại kết quả học tập&lt;div&gt;&lt;div&gt;(bàn phím, chuột)&lt;/div&gt;&lt;div&gt;Exel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="330" width="138" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TNlGkWgMrrRL-m7lQpUT-14" value="Thể hiện kết quả&amp;nbsp;&lt;div&gt;(màn hình-máy in)&lt;/div&gt;&lt;div&gt;Dựa vào đó giáo viên đưa ra kết&amp;nbsp;&lt;/div&gt;&lt;div&gt;luận đánh giá học sinh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="545" width="280" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
